@@ -1,0 +1,136 @@
+C:\Users\Minchi Low\AppData\Local\Temporary Projects\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\AppData\Local\Temporary Projects\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\AppData\Local\Temporary Projects\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\AppData\Local\Temporary Projects\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_mainscreen_a161124.resources
+C:\Users\Minchi Low\AppData\Local\Temporary Projects\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.Resources.resources
+C:\Users\Minchi Low\AppData\Local\Temporary Projects\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.vbproj.GenerateResource.Cache
+C:\Users\Minchi Low\AppData\Local\Temporary Projects\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\AppData\Local\Temporary Projects\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\AppData\Local\Temporary Projects\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_mainscreen_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_product_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.Resources.resources
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.vbproj.GenerateResource.Cache
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_order_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_orderdetails_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_staff_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_customer_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_customer_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_mainscreen_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_orderdetails_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_order_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_product_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_staff_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.Resources.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.vbproj.GenerateResource.Cache
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertcustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertstaff_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertupdatepage_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatecustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updateproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatestaff_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_productdetails_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_customer_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertcustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertstaff_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertupdatepage_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_mainscreen_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_orderdetails_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_order_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_productdetails_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_product_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_staff_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatecustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updateproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatestaff_a161124.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.Resources.resources
+C:\Users\Minchi Low\Desktop\11111\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.vbproj.GenerateResource.Cache
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_customer_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertcustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertstaff_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertupdatepage_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_mainscreen_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_orderdetails_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_order_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_productdetails_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_product_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_staff_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatecustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updateproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatestaff_a161124.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.Resources.resources
+C:\Users\Minchi Low\Desktop\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.vbproj.GenerateResource.Cache
+C:\Users\Minchi Low\Desktop\background\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\background\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\background\A161124_DININGPRO\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_customer_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertcustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertstaff_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertupdatepage_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_mainscreen_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_order_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_productdetails_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_product_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_staff_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatecustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updateproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatestaff_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.Resources.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.vbproj.GenerateResource.Cache
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\Advance database assignment\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_vieworder_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.exe
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.pdb
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\bin\Debug\prj_dinningpro_a161124.xml
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_customer_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertcustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertstaff_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_insertupdatepage_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_mainscreen_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_order_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_productdetails_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_product_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_staff_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatecustomer_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updateproduct_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_updatestaff_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.frm_vieworder_a161124.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.Resources.resources
+C:\Users\Minchi Low\Desktop\Academic UKM\IT SEM 3\A161124_DININGPRO_assignment 2\A161124_DININGPRO\prj_dinningpro_a161124\prj_dinningpro_a161124\obj\x86\Debug\prj_dinningpro_a161124.vbproj.GenerateResource.Cache
